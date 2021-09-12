@@ -1,0 +1,2 @@
+Builds/TestWork/WindowsNoEditor/WIND.zip filter=lfs diff=lfs merge=lfs -text
+Builds/TestWork/WindowsNoEditor/WIND/Content/Paks/WIND-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
